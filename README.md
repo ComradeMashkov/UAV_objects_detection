@@ -136,7 +136,7 @@ python data_transform/YOLO_Transform.py
 ![map](images/map.png)
 
 Значения точности и полноты:
-![pr_rec](images/pr_rec.png)
+s
 
 Со всеми значениями можно ознакомиться в файле ```results.csv```. 
 
