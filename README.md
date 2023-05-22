@@ -146,6 +146,6 @@ python data_transform/YOLO_Transform.py
 
 Графики зависимостей были построены с использованием **MATLAB_R2022a**.
 
-## Результат применения модели на видео
+## Результат применения модели на мини-выборке 4 х 4
 
-![res](images/mov.gif)
+![res](images/val_batch.png)
